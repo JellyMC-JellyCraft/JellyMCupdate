@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<JMCUpdate>
+	<update appId="JellyMC_Launcher">
+		<version>2.0.0.0</version>
+		<url>https://github.com/JellyMC-JellyCraft/JellyMCupdate/JellyMC_Launcher.exe</url>
+		<fileName>JellyMC_Launcher2.exe</fileName>
+		<md5>506a30330d4c823fc28d14bb0931e545</md5>
+		<description>Sikerüljön mán</description>
+		<launchArgs></launchArgs>
+	</update>
+</JMCUpdate>
